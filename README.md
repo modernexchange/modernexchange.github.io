@@ -1,6 +1,6 @@
 # modernexchange.github.io
 
-1. [Shared StateScreen](https://modernexchange.github.io/firepad/examples/webrtc.html)
+1. [Shared Screen](https://modernexchange.github.io/firepad/examples/webrtc.html)
 1. [Shared Text](https://modernexchange.github.io/firepad/examples/richtext-simple.html)
 1. [Shared Text/User](https://modernexchange.github.io/firepad/examples/userlist.html)
 1. [Shared Code](https://modernexchange.github.io/firepad/examples/code.html)
